@@ -1,4 +1,5 @@
 # How to run Spring Boot MVC App with JPA and Postgres DB
+This repository is prepared for **Java + JPA + PostgreSQL** development.
 
 App runs locally in IntelliJ, uses Compose only for Postgres (+ pgAdmin)
 
